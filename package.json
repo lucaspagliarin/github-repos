@@ -16,6 +16,9 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-		"dev": "webpack-dev-server --mode=development"
-	}
+    "dev": "webpack-dev-server --mode=development"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
